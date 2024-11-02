@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Home Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="error_title">Attention!</string>
+    <string name="retry">retry</string>
+    <string name="close">close</string>
+    <string name="fats_template">Fats: %1$s</string>
+    <string name="carbs_template">Carbs: %1$s</string>
+    <string name="calories_template">Calories: %1$s</string>
+    <string name="recipes_list">Recipes List</string>
+    <string name="recipe_data">Recipe data</string>
+    <string name="biometric_authentication">Biometric Authentication</string>
+    <string name="authenticate_to_encrypt_decrypt_your_data">Authenticate to encrypt/decrypt your data</string>
+    <string name="data_encryption_decryption_failed">Data encryption/decryption failed</string>
+    <string name="encryption_failed">Encryption failed</string>
+    <string name="encryption_failed_template">Encryption failed: %1$s</string>
+    <string name="biometric_auth_error_template">Biometric Auth Error: %1$s</string>
+    <string name="decryption_failed_template">Decryption failed: %1$s</string>
+
+</resources>
